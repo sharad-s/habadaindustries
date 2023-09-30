@@ -5,7 +5,7 @@ export default function Home() {
     <>
       <Head>
         <title>Habada Industries</title>
-        <meta name="description" content="Forging the Future, the Habada WayThe Habada Way" />
+        <meta name="description" content="Forging the Future, the Habada Way" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
